@@ -1,3 +1,5 @@
+#!/usr/bin/python3.6
+
 import socket,subprocess,os
 
 s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
